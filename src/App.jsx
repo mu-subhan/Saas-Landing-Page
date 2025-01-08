@@ -1,8 +1,10 @@
+import Header from "./sections/Header";
+
 const App = () =>{
   return (
-    <>
-    <h1 className="text-white">hello this is new project </h1>
-    </>
+    <main className="overflow-hidden">
+    <Header/>
+    </main>
   )
 }
 export default App;
