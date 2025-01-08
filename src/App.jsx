@@ -1,7 +1,7 @@
 const App = () =>{
   return (
     <>
-    <h1 className=" text-whitee">hello this is new project </h1>
+    <h1 className="text-white">hello this is new project </h1>
     </>
   )
 }
